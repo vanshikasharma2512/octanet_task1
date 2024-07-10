@@ -1,0 +1,100 @@
+<title>Anime</title>
+<head>
+<style>
+{
+  padding: 0;
+  margin: 0
+}
+.parent:first-of-type {
+  background: #ffffff url("http://s8.favim.com/orig/140403/art-flower-flowers-grunge-Favim.com-1605689.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+.parent:nth-of-type(2) {
+  background: #ffffff url("http://s9.favim.com/orig/130908/beauty-flower-flowers-photo-Favim.com-906054.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+.parent:nth-of-type(3) {
+  background: #ffffff url("http://s12.favim.com/orig/160220/flowers-grunge-hipster-photography-Favim.com-4023702.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+.parent:nth-of-type(4) {
+  background: #ffffff url("http://data.whicdn.com/images/59213807/original.png") no-repeat center center fixed;
+  background-size: cover;
+}
+.parent:last-of-type {
+  background: #ffffff url("http://s3.favim.com/orig/47/beautiful-cute-flowers-rain-red-Favim.com-436699.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+.parent {
+  width: 100%;
+  height: 150vh;
+  color: #fff;
+  text-shadow: 0 0 5px #000;
+  font-family: tahoma;
+  text-align: center;
+  line-height: 180%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden
+}
+.parent p {
+  padding: 25px
+}
+
+</style>
+</head>
+<div class="parent">
+  <div class="parallex">
+  <h1>Top 5 must see "GORE ANIME"</h1>
+  <img src="https://static.wikia.nocookie.net/fb4884be-7fe6-44d3-8c72-40678b850015/scale-to-width-down/800"/>
+  </div>
+</div>
+
+<div class="parent">
+  <div>
+  <h1>Attack On Titan</h1>
+  <p>As humans face extinction at the hand, or rather, mouth, of cannibalistic giant monsters, known as Titans, a select few step forward to defend humanity. However, their bravery is very short-lived when they see the real terrifying horror that a Titan conveys.</p>
+<p>From flying limbs, blood spatter, and the regurgitation of a human carcass, Attack on Titan, doesn’t hold back on the gore fest. The anime has really ramped up the brutality this season, as human-on-human violence has become the norm — and is often crueler than what the Titans dished out in previous seasons.</p>
+  <img src="https://vignette.wikia.nocookie.net/b533f2a0-1ced-488a-b279-026379f4270e/scale-to-width-down/1200"width="100"/>
+  </div>
+</div>
+
+<div class="parent">
+  <div>
+  <h1>TOKYO GHOUL</h1>
+  <p>Based on Sui Ishida’s dark fantasy manga of the same name, Tokyo Ghoul follows shy college student Ken Kaneki whose life takes a grisly turn when his date turns him into a ghoul — a carnivorous creature that can only feed on humans and other ghouls. Now, Kaneki must hide his identity as a half-ghoul/half-human and try to live a normal life.</p>
+<p>Aside from its stunning visuals and gripping storyline, Tokyo Ghoul features ghouls eating and battling each other, which, therefore, leads to a lot of blood. The anime also includes some intense physical and psychological torture that are much worse than getting your arm ripped off.</p>
+  <img src="https://vignette.wikia.nocookie.net/ed4fdeeb-b135-410d-a527-e69560aee4f9/scale-to-width-down/1200"width="100"/>
+  </div>
+</div>
+
+
+<div class="parent">
+  <div>
+  <h1>GANTZ</h1>
+  <p>Gantz tells the story of two high school students who die after rescuing a beggar from a train. However, instead of going to heaven or hell, they land in an apartment with a black sphere in the center. Rather than continuing with their normal lives, the sphere, known as GANTZ, forces the pair to play an alien-hunting “game” of unprecedented danger and horror.</p>
+  <img src="https://vignette.wikia.nocookie.net/873697a7-3bb7-425f-824b-60c4168c8b13/scale-to-width-down/1200"width="100"/>
+  </div>
+</div>
+
+<div class="parent">
+  <div>
+  <h1>GENOCYBER</h1>
+  <p>One of the most controversial entries in this list is the ’90s mecha horror anime Genocyber. Despite the fact that gore anime was popular in the ’80s and ’90s, Genocyber did something that many might consider taboo. While many people would frown upon children getting killed on screen, Genocyber ignored this and featured some kids getting blown up. Spread across five episodes, the original video animation follows a new weapon that sets out to destroy anything and anyone.</p>
+  <img src="https://vignette.wikia.nocookie.net/303bbb58-f4bd-4a7a-9e80-fe95cef31845/scale-to-width-down/1200"width="100"/>
+  </div>
+</div>
+
+<div class="parent">
+  <div>
+  <h1>CORPSE PARTY: TORTURED SOULS</h1>
+  <p>Warning Corpse Party is not for the faint-hearted unless you’re a fan of mystery, horror, and eye-gouging.</p>
+<p>While Genocyber started the trend of killing children on screen, Corpse Party pushes the boundaries even further and includes psychological torture as well. Staying at school after dark was not a good idea for nine students and their teacher. After performing a ritual for good luck, the group is transported to an alternate dimension with vengeful ghosts of the past. Now they have to work together to escape or perish with these evil spirits.</p>
+  <img src="https://vignette.wikia.nocookie.net/257e876f-24d5-4e14-8d8e-7ba6d959a321/scale-to-width-down/1200"width="100"/>
+  </div>
+</div>
+
+
+
